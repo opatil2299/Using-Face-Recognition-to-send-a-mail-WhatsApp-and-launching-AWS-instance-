@@ -341,8 +341,8 @@ Using the same approach we can solve many of the real world use cases like for s
 
 ## Team Members
 [Nehal Ingole](https://www.linkedin.com/in/nehal-ingole/)</br>
-[Omkar Patil](https://www.linkedin.com/in/omkar-patil-213a0a193/)</br>
+[Gaurav_pagare](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)</br>
 [Nivedita Shinde](https://www.linkedin.com/in/nivedita-shinde-75aa5a1a5/)</br>
 [Gracy Yadav]()</br>
 
-Any query and suggestion are always welcome- [Gaurav Pagare](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)
+Any query and suggestion are always welcome- [omkar_patil](https://www.linkedin.com/in/omkar-patil-213a0a193/)
